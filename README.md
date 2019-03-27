@@ -3,15 +3,17 @@ C++ program that builds a crossword with given words and grid using backtracking
 
 For example:
 
+
 input:
+
 
 XXXXX
 
-X  X
+X   X
 
 XXXX
 
-X  X
+X   X
 
 0
 
@@ -24,13 +26,15 @@ DAMA
 ALMA
 
 
+
 output:
+
 
 APACZ
 
-D  L
+D   L
 
 DAMA
 
-A  A
+A   A
 
