@@ -6,19 +6,31 @@ For example:
 input:
 
 XXXXX
-X X
+
+X  X
+
 XXXX
-X X
+
+X  X
+
 0
+
 ADDA
+
 APACZ
+
 DAMA
+
 ALMA
+
 
 output:
 
 APACZ
-D L
+
+D  L
+
 DAMA
-A A
+
+A  A
 
